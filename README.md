@@ -1,3 +1,4 @@
 # portfolio
 Conteúdo de todos os projetos desenvolvidos.
-<a href="docs/" taget="_new">PORTFOLIO</a>
+<br>
+<a href="https://fmazevedo.github.io/portfolio" taget="_new">PORTFOLIO</a>
